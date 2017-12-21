@@ -17,6 +17,10 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 - `RequiredHouses` requirement removed
 - `MoveToShroud` to yes
 - `Teleporter` to yes
+### `SPY`
+- `Locomotor` to match `CLEG`
+- `MoveToShroud` to yes
+- `Teleporter` to yes
 
 ***
 
