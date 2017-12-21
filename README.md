@@ -6,6 +6,8 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 - Increase sight & speed
 ### ENGINEER
 - `Locomotor` to match CLEG
+### GGI
+- Increase sight & speed
 ### SNIPE
 - `Locomotor` to match CLEG
 - Removed `RequiredHouses`
