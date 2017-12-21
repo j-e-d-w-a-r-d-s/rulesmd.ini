@@ -26,6 +26,10 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 - `Adjacent` increased
 - `ROT` increased
 
+### `NASAM`
+- `Adjacent` increased
+- `ROT` increased
+
 ***
 
 ## Weapons
@@ -33,11 +37,11 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 - `Damage` increased
 - `ROF` increased
 - `Speed` increased
-
-***
-
-## Warheads
 ### `AWP`
 - `ROF` increased
 ### `AWPE`
 - `ROF` increased
+### `RedEye2`
+- `Damage` increased
+- `ROF` increased
+- `Range` increased
