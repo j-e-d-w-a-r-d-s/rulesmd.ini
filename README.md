@@ -14,17 +14,23 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 - `Locomotor` to match `CLEG`
 - `RequiredHouses` requirement removed
 
+***
+
 ## Buildings
 ### `GTGCAN`
 - `RequiredHouses` requirement removed
 - `Adjacent` increased
 - `ROT` increased
 
+***
+
 ## Weapons
 ### `GrandCannonWeapon`
 - `Damage` increased
 - `ROF` increased
 - `Speed` increased
+
+***
 
 ## Warheads
 ### `AWP`
