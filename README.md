@@ -15,13 +15,13 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 - `RequiredHouses` requirement removed
 
 ## Buildings
-### GTGCAN
+### `GTGCAN`
 - `RequiredHouses` requirement removed
 - `Adjacent` increased
 - `ROT` increased
 
 ## Weapons
-### GrandCannonWeapon
+### `GrandCannonWeapon`
 - `Damage` increased
 - `ROF` increased
 - `Speed` increased
