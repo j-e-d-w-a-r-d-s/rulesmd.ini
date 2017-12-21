@@ -7,6 +7,8 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 - `Speed` increased
 ### `ENGINEER`
 - `Locomotor` to match `CLEG`
+- `MoveToShroud` to yes
+- `Teleporter` to yes
 ### `GGI`
 - `Sight` increased
 - `Speed` increased
