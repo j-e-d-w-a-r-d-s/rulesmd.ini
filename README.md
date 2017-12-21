@@ -3,7 +3,7 @@ Custom rulesmd.ini for Yuri's Revenge
 
 ## Units
 ### SNIPE
-- Removed RequiredHouses
+- Removed `RequiredHouses`
 
 ## Warheads
 ### AWP
