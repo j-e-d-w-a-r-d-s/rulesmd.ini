@@ -3,39 +3,42 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 
 ## Units
 ### `E1`
-- `Sight` increased
-- `Speed` increased
+- `Sight` and `Speed` increases
 ### `ENGINEER`
-- `Locomotor` to match `CLEG`
-- `MoveToShroud` to yes
-- `Teleporter` to yes
+- Teleports to destination
 ### `GGI`
-- `Sight` increased
-- `Speed` increased
+- `Sight` and `Speed` increases
 ### `SNIPE`
-- `Locomotor` to match `CLEG`
-- `RequiredHouses` requirement removed
-- `MoveToShroud` to yes
-- `Teleporter` to yes
+- Teleports to destination
+- Available to allies
 ### `SPY`
-- `Locomotor` to match `CLEG`
-- `MoveToShroud` to yes
-- `Teleporter` to yes
+- Teleports to destination
+### `JUMPJET`
+- `Primary` changed to `BlimbBomb`
+- `Secondary` added: `RedEye2` (anti-aircraft)
 
 ***
 
 ## Buildings
 ### `GTGCAN`
-- `RequiredHouses` requirement removed
+- Available to allies
 - `Adjacent` increased
 - `ROT` increased
-
 ### `NASAM`
 - `Adjacent` increased
 - `ROT` increased
+### `GAPOWR`
+- Generates 10x power
+- Sight increased
+### `GAOREP`
+- `BuildLimit` removed
 
 ***
+## Vehicles
+### `MTNK`
+- Hovers, amphibious
 
+***
 ## Weapons
 ### `GrandCannonWeapon`
 - `Damage` increased
