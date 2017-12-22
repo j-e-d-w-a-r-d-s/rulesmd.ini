@@ -36,7 +36,9 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 ***
 ## Vehicles
 ### `MTNK`
-- Hovers, amphibious
+- Hovers, amphibious, sight, speed
+### `SREF`
+- Hovers, amphibious, sight, speed
 
 ***
 ## Weapons
