@@ -30,8 +30,15 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 ### `GAPOWR`
 - Generates 10x power
 - Sight increased
+- Adjacent increased
 ### `GAOREP`
 - `BuildLimit` removed
+### `GAWEAP`
+- Adjacent increased
+### `GAPILE`
+- Adjacent increased
+### `ATESLA`
+- Adjacent increased
 
 ***
 ## Vehicles
@@ -41,6 +48,10 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 - Hovers, amphibious, sight, speed
 ### `AMCV`
 - Hovers, amphibious
+### `TNKD`
+- Removed RequiredHouses
+### `ORCA`
+- Increased ammo payload
 
 ***
 ## Weapons
