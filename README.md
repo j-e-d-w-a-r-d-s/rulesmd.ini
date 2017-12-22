@@ -39,6 +39,8 @@ Custom rulesmd.ini for Yuri's Revenge, very America focused.
 - Hovers, amphibious, sight, speed
 ### `SREF`
 - Hovers, amphibious, sight, speed
+### `AMCV`
+- Hovers, amphibious
 
 ***
 ## Weapons
