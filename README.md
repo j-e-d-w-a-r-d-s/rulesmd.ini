@@ -7,7 +7,7 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 * `ChronoMinimumDelay=0`
 * `ChronoRangeMinimum=1`
 * `PurifierBonus=.5`
-* `V3Warhead`: `V3WH` -> `NUKE`
+* `V3Warhead=NUKE`
 
 ***
 
