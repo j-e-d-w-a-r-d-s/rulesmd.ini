@@ -22,23 +22,23 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 ### Allied Guardian GI: `GGI`
 * `Sight=10`
 * `Speed=10`
-### Rocketeer: `JUMPJET`
+### Allied Rocketeer: `JUMPJET`
 * `Primary=Blimpbomb`
 * `Secondary=RedEye2`
 * `PrimaryElite=BlimpbombE`
-### Spy: `SPY`
+### Allied Spy: `SPY`
 * `Locomotor={4A582747-9839-11d1-B709-00A024DDAFD1}`
 * `MoveToShroud=yes`
 * `Teleporter=yes`
-### Chrono Commando: `GHOST`
+### Allied Chrono Commando: `GHOST`
 * `MoveToShroud=yes`
-### Sniper: `SNIPE`
+### British Sniper: `SNIPE`
 * `;RequiredHouses=British`
 * `Locomotor={4A582747-9839-11d1-B709-00A024DDAFD1}`
 * `MoveToShroud=yes`
 * `Teleporter=yes`
 * `C4=yes`
-### Terrorist: `TERROR`
+### Libyan Terrorist: `TERROR`
 * `;Prerequisite=NAHAND,RADAR`
 * `Owner=Russians,Confederation,Africans,Arabs,Americans`
 * `RequiredHouses=Americans`
