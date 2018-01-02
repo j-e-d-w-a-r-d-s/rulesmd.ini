@@ -116,6 +116,8 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 * `ROT=10`
 ### Yuri's Cloning Vats: `NACLON`
 * `;BuildLimit=1`
+### Paris Tower: `CAPARS01`
+* `Capturable=true`
 
 ***
 
