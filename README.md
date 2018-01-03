@@ -90,6 +90,11 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 ### Intruder: `ORCA`
 * `ROT=10`
 * `Ammo=8`
+### Harvester: `CMIN`
+* `Sight=10`
+* `Speed=10`
+* `ROT=10`
+* `Storage=40`
 
 *** 
 
