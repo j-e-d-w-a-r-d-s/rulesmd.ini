@@ -90,6 +90,11 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 ### Intruder: `ORCA`
 * `ROT=10`
 * `Ammo=8`
+### Harvester: `CMIN`
+* `Sight=10`
+* `Speed=10`
+* `ROT=10`
+* `Storage=40`
 
 *** 
 
@@ -118,6 +123,14 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 * `;BuildLimit=1`
 ### Paris Tower: `CAPARS01`
 * `Capturable=true`
+### Soviet Construction Yard: `NACNST`
+* `Unsellable=yes`
+### Oil Derrick: `CAOILD`
+* `Sight=10
+* `ProduceCashStartup=10000`
+* `ProduceCashAmount=200`
+### Allied Construction Yard: `GACNST`
+* `Sight=10`
 
 ***
 
