@@ -123,6 +123,12 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 * `;BuildLimit=1`
 ### Paris Tower: `CAPARS01`
 * `Capturable=true`
+### Soviet Construction Yard: `NACNST`
+* `Unsellable=yes`
+### Oil Derrick: `CAOILD`
+* `Sight=10
+* `ProduceCashStartup=10000`
+* `ProduceCashAmount=200`
 
 ***
 
