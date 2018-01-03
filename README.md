@@ -129,6 +129,10 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 * `Sight=10
 * `ProduceCashStartup=10000`
 * `ProduceCashAmount=200`
+### Allied Construction Yard: `GACNST`
+* `Sight=10`
+* `TechLevel=1`
+* `Adjacent=10`
 
 ***
 
