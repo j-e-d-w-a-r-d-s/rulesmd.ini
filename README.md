@@ -8,6 +8,8 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 * `ChronoRangeMinimum=1`
 * `PurifierBonus=.5`
 * `V3Warhead=NUKE`
+* `V3EliteWarhead=NUKE`
+* `GrowthRate=1`
 
 ***
 
@@ -56,6 +58,8 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 * `Locomotor={4A582742-9839-11d1-B709-00A024DDAFD1}`
 * `MovementZone=Amphibious`
 * `SpeedType=Hover`
+* `Primary=120mmx`
+* `ElitePrimary=120mmxE`
 ### Prism Tank: `SREF`
 * `Sight=10`
 * `Speed=10`
