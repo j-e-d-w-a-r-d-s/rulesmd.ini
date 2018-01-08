@@ -8,6 +8,8 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 * `ChronoRangeMinimum=1`
 * `PurifierBonus=.5`
 * `V3Warhead=NUKE`
+* `V3EliteWarhead=NUKE`
+* `GrowthRate=1`
 
 ***
 
@@ -83,8 +85,6 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 * `SpawnsNumber=3`
 * `Owner=Russians,Confederation,Africans,Arabs,Americans`
 * `RequiredHouses=Americans`
-* `V3EliteWarhead=NUKE`
-* `V3Warhead=NUKE`
 ### Soviet MCV: `SMCV`
 * `;Prerequisite=NAWEAP,NADEPT`
 * `Owner=Russians,Confederation,Africans,Arabs,Americans`
