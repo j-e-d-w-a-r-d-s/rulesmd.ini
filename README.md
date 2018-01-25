@@ -130,7 +130,7 @@ This is probably *not* what you're looking for.  A custom rulesmd.ini that I use
 ### Soviet Construction Yard: `NACNST`
 * `Unsellable=yes`
 ### Oil Derrick: `CAOILD`
-* `Sight=10
+* `Sight=10`
 * `ProduceCashStartup=10000`
 * `ProduceCashAmount=200`
 ### Allied Construction Yard: `GACNST`
